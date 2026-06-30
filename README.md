@@ -9,7 +9,6 @@
   <a href="mailto:eduardo@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Eduardo-T-Lino&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://komarev.com/ghpvc/?username=Eduardo-T-Lino&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
@@ -42,11 +41,6 @@ I'm a passionate **Full Stack Developer** with hands-on experience building scal
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Eduardo-T-Lino&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eduardo-T-Lino&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardo-T-Lino&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
