@@ -37,10 +37,10 @@ I'm a passionate **Full Stack Developer** with hands-on experience building scal
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-T-Lino&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" alt="Most Used Languages"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Eduardo-T-Lino&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" alt="Most Used Languages"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Eduardo-T-Lino&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak"/>
+  <img src="https://streak-stats.vercel.app/?user=Eduardo-T-Lino&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
