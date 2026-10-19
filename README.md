@@ -58,12 +58,6 @@ Tenho atuado em projetos que conectam interfaces, APIs e persistência de dados.
   <img src="https://streak-stats.demolab.com?user=Eduardo-T-Lino&theme=tokyonight&hide_border=true&background=0B1220&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="Sequência de contribuições"/>
 </div>
 
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eduardo-T-Lino&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Conquistas do GitHub"/>
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:123B68,100:2563EB&height=95&section=footer" alt="Rodapé azul escuro"/>
 </div>
