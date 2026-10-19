@@ -52,9 +52,6 @@ Tenho atuado em projetos que conectam interfaces, APIs e persistência de dados.
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eduardo-T-Lino&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0B1220&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-T-Lino&layout=compact&hide_border=true&theme=tokyonight&bg_color=0B1220&title_color=60A5FA&text_color=C9D1D9" alt="Linguagens mais usadas"/>
-  <br/>
   <img src="https://streak-stats.demolab.com?user=Eduardo-T-Lino&theme=tokyonight&hide_border=true&background=0B1220&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="Sequência de contribuições"/>
 </div>
 
