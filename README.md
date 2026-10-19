@@ -5,6 +5,7 @@
   <p>I build web applications, APIs, and browser games. I enjoy connecting interfaces, business logic, and data to turn ideas into clear, useful products.</p>
   <p>
     <a href="https://www.linkedin.com/in/eduardo-lino"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:eduardo.tamborelli.lino@gmail.com"><img src="https://img.shields.io/badge/Email-C62828?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=Eduardo-T-Lino&color=C62828&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile views"/>
