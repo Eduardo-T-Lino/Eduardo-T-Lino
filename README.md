@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:5B0B12,100:C62828&height=145&section=header" alt="Banner em preto e vermelho"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:5B0B12,100:C62828&height=145&section=header" alt="Banner em preto e vermelho"/>
   <h1>👋 Olá, eu sou o Eduardo!</h1>
   <p><strong>Desenvolvedor de Software · Aplicações Web e Jogos</strong></p>
   <p>Desenvolvo aplicações web, APIs e jogos para navegador. Gosto de conectar interfaces, regras de negócio e dados para transformar ideias em produtos claros e funcionais.</p>
   <p>
     <a href="https://www.linkedin.com/in/eduardo-lino"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://github.com/Eduardo-T-Lino"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
+  <img src="https://komarev.com/ghpvc/?username=Eduardo-T-Lino&color=C62828&style=flat-square&label=VISUALIZAÇÕES+DO+PERFIL" alt="Visualizações do perfil"/>
 </div>
 
 ---
@@ -17,20 +17,28 @@ Tenho trabalhado em projetos que passam por diferentes etapas do desenvolvimento
 
 ## 🚀 Projetos em destaque
 
-- **[Beter Life](https://github.com/beter-life)** — Plataforma de finanças pessoais para organizar contas, transações, orçamentos e metas.  
-  [Front-end](https://github.com/beter-life/Front) · [Back-end](https://github.com/beter-life/Back)  
-  *React, TypeScript, Vite, Tailwind CSS · Node.js, Fastify, PostgreSQL, Supabase*
+### [Beter Life](https://github.com/beter-life)
 
-- **[Never Lift](https://github.com/Never-Lift)** — Jogo de corrida para navegador com renderização em Canvas 2D e back-end em Java.  
-  [Front-end](https://github.com/Never-Lift/never-lift-frontend) · [Back-end](https://github.com/Never-Lift/never-lift-backend)  
-  *React, TypeScript, Canvas 2D, Vite · Java, Spring Boot, PostgreSQL*
+Plataforma de finanças pessoais para organizar contas, transações, orçamentos e metas.  
+[Repositório do front-end](https://github.com/beter-life/Front) · [Repositório do back-end](https://github.com/beter-life/Back)  
+*React · TypeScript · Vite · Tailwind CSS · Node.js · Fastify · PostgreSQL · Supabase*
 
-- **[SkyKyuu](https://github.com/SkyKyuu)** — Jogo de vôlei 3D para navegador.  
-  [Front-end](https://github.com/SkyKyuu/skykyuu-frontend) · [Back-end](https://github.com/SkyKyuu/skykyuu-backend)  
-  *React, TypeScript, Babylon.js · Java, Spring WebFlux*
+### [Never Lift](https://github.com/Never-Lift)
 
-- **[Quick-grid](https://github.com/Eduardo-T-Lino/Quick-grid)** — Jogo para navegador com funcionalidades online.  
-  *JavaScript, Vite, Node.js, Express, PostgreSQL e WebSockets*
+Jogo de corrida para navegador, com renderização em Canvas 2D e back-end em Java.  
+[Repositório do front-end](https://github.com/Never-Lift/never-lift-frontend) · [Repositório do back-end](https://github.com/Never-Lift/never-lift-backend)  
+*React · TypeScript · Canvas 2D · Vite · Java · Spring Boot · PostgreSQL*
+
+### [SkyKyuu](https://github.com/SkyKyuu)
+
+Jogo de vôlei 3D para navegador.  
+[Repositório do front-end](https://github.com/SkyKyuu/skykyuu-frontend) · [Repositório do back-end](https://github.com/SkyKyuu/skykyuu-backend)  
+*React · TypeScript · Babylon.js · Java · Spring WebFlux*
+
+### [Quick-grid](https://github.com/Eduardo-T-Lino/Quick-grid)
+
+Jogo para navegador com funcionalidades online.  
+*JavaScript · Vite · Node.js · Express · PostgreSQL · WebSockets*
 
 ## 🧰 Tecnologias
 
@@ -85,5 +93,5 @@ Reuni aqui as tecnologias do meu perfil anterior e as que aparecem nos projetos.
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:5B0B12,100:C62828&height=95&section=footer" alt="Banner inferior em preto e vermelho"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:5B0B12,100:C62828&height=95&section=footer" alt="Banner inferior em preto e vermelho"/>
 </div>
