@@ -2,14 +2,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:090A0D,50:5C1020,100:D12B43&amp;height=165&amp;section=header" alt="Dark crimson banner" />
 
-# Hey, I'm Eduardo! 👋
+# 👋 Hi, I'm Eduardo!
 
 **Software Developer · Full Stack · Interactive Experiences**
 
 I create web applications, robust APIs, and interactive browser games — from product architecture to the details that make experiences feel polished.
 
-<a href="https://www.linkedin.com/in/eduardo-lino"><img src="https://img.shields.io/badge/LinkedIn-11131A?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:eduardo.tamborelli.lino@gmail.com"><img src="https://img.shields.io/badge/Contact-E13C55?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/eduardo-lino"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:eduardo.tamborelli.lino@gmail.com"><img src="https://img.shields.io/badge/Email-C62828?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Eduardo-T-Lino?tab=repositories"><img src="https://img.shields.io/badge/Repositories-11131A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub repositories" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Eduardo-T-Lino&amp;color=C62828&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Profile views" />
@@ -18,35 +18,48 @@ I create web applications, robust APIs, and interactive browser games — from p
 
 ---
 
-### <code>01 /</code> A bit about me
+## 🧑‍💻 About Me
 
 I build modern interfaces, backend services, and real-time applications. My projects bring together **frontend engineering, API design, data modeling, and game development** — with an emphasis on clear interfaces and maintainable code.
 
-### <code>02 /</code> Featured projects
+## 🚀 Featured Projects
 
 A selection of projects I lead and maintain, across personal finance, motorsport, racing simulation, and 3D games.
 
 <div align="center">
 
-<a href="https://github.com/beter-life"><img src="https://avatars.githubusercontent.com/u/331849248?v=4" width="30" height="30" alt="Beter Life organization logo" /></a> <strong>Beter Life</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Grid-Manager"><img src="https://avatars.githubusercontent.com/u/315347681?v=4" width="30" height="30" alt="Grid Manager organization logo" /></a> <strong>Grid Manager</strong>
-
-<p align="center">
-  <a href="https://github.com/beter-life/Front"><img src="./assets/project-cards/beter-life-card.png" width="49%" alt="Beter Life featured project — React, TypeScript, Fastify, PostgreSQL" /></a>
-  <a href="https://github.com/Grid-Manager/grid-manager-frontend"><img src="./assets/project-cards/grid-manager-card.png" width="49%" alt="Grid Manager featured project — Next.js, TypeScript, Spring Boot, Java" /></a>
-</p>
-
-<a href="https://github.com/Quick-grid"><img src="https://avatars.githubusercontent.com/u/354451634?v=4" width="30" height="30" alt="Quick-grid organization logo" /></a> <strong>Quick-grid</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/SkyKyuu"><img src="https://avatars.githubusercontent.com/u/321475785?v=4" width="30" height="30" alt="SkyKyuu organization logo" /></a> <strong>SkyKyuu</strong>
-
-<p align="center">
-  <a href="https://github.com/Quick-grid/simulator"><img src="./assets/project-cards/quick-grid-card.png" width="49%" alt="Quick-grid featured project — JavaScript, Vite, Express, WebSockets" /></a>
-  <a href="https://github.com/SkyKyuu/skykyuu-frontend"><img src="./assets/project-cards/skykyuu-card.png" width="49%" alt="SkyKyuu featured project — React, Babylon.js, Java, Spring WebFlux" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/beter-life"><img src="https://avatars.githubusercontent.com/u/331849248?v=4" width="26" height="26" alt="Beter Life organization logo" /></a>
+      <strong>Beter Life</strong>
+      <p><a href="https://github.com/beter-life/Front"><img src="assets/project-cards/beter-life-card.png" width="100%" alt="Beter Life featured project — React, TypeScript, Fastify, PostgreSQL" /></a></p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Grid-Manager"><img src="https://avatars.githubusercontent.com/u/315347681?v=4" width="26" height="26" alt="Grid Manager organization logo" /></a>
+      <strong>Grid Manager</strong>
+      <p><a href="https://github.com/Grid-Manager/grid-manager-frontend"><img src="assets/project-cards/grid-manager-card.png" width="100%" alt="Grid Manager featured project — Next.js, TypeScript, Spring Boot, Java" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Quick-grid"><img src="https://avatars.githubusercontent.com/u/354451634?v=4" width="26" height="26" alt="Quick-grid organization logo" /></a>
+      <strong>Quick-grid</strong>
+      <p><a href="https://github.com/Quick-grid/simulator"><img src="assets/project-cards/quick-grid-card.png" width="100%" alt="Quick-grid featured project — JavaScript, Vite, Express, WebSockets" /></a></p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/SkyKyuu"><img src="https://avatars.githubusercontent.com/u/321475785?v=4" width="26" height="26" alt="SkyKyuu organization logo" /></a>
+      <strong>SkyKyuu</strong>
+      <p><a href="https://github.com/SkyKyuu/skykyuu-frontend"><img src="assets/project-cards/skykyuu-card.png" width="100%" alt="SkyKyuu featured project — React, Babylon.js, Java, Spring WebFlux" /></a></p>
+    </td>
+  </tr>
+</table>
 
 <sub>Click a card to open its repository. Organization logos link to their GitHub pages.</sub>
 
 </div>
 
-### <code>03 /</code> Tech stack
+## 🧰 Technologies
 
 <details open>
 <summary><b>Languages & Core Web</b></summary>
@@ -100,7 +113,7 @@ A selection of projects I lead and maintain, across personal finance, motorsport
 
 </details>
 
-### <code>04 /</code> GitHub activity
+## 📈 Contributions
 
 <div align="center">
   <img width="75%" src="https://streak-stats.demolab.com?user=Eduardo-T-Lino&amp;theme=dark&amp;hide_border=true&amp;background=11131A&amp;ring=E13C55&amp;fire=FF6B81&amp;currStreakLabel=FF6B81&amp;sideLabels=D8DCE5&amp;dates=97A0AE" alt="GitHub contribution streak" />
