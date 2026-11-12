@@ -24,21 +24,21 @@ Selected projects from organizations where I have repository administration and 
   <tr>
     <td width="50%" valign="top">
       <p align="center"><a href="https://github.com/beter-life"><img src="https://avatars.githubusercontent.com/u/331849248?v=4" width="24" height="24" alt="Beter Life organization logo"/> <strong>Beter Life</strong></a></p>
-      <p align="center"><a href="https://github.com/beter-life/Front"><img src="./assets/project-cards/beter-life.svg" width="370" alt="Beter Life project card"/></a></p>
+      <p align="center"><a href="https://github.com/beter-life/Front"><img src="./assets/project-cards/beter-life-card.svg" width="370" alt="Beter Life project card"/></a></p>
     </td>
     <td width="50%" valign="top">
       <p align="center"><a href="https://github.com/Grid-Manager"><img src="https://avatars.githubusercontent.com/u/315347681?v=4" width="24" height="24" alt="Grid Manager organization logo"/> <strong>Grid Manager</strong></a></p>
-      <p align="center"><a href="https://github.com/Grid-Manager/grid-manager-frontend"><img src="./assets/project-cards/grid-manager.svg" width="370" alt="Grid Manager project card"/></a></p>
+      <p align="center"><a href="https://github.com/Grid-Manager/grid-manager-frontend"><img src="./assets/project-cards/grid-manager-card.svg" width="370" alt="Grid Manager project card"/></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p align="center"><a href="https://github.com/Quick-grid"><img src="https://avatars.githubusercontent.com/u/354451634?v=4" width="24" height="24" alt="Quick-grid organization logo"/> <strong>Quick-grid</strong></a></p>
-      <p align="center"><a href="https://github.com/Quick-grid/simulator"><img src="./assets/project-cards/quick-grid.svg" width="370" alt="Quick-grid project card"/></a></p>
+      <p align="center"><a href="https://github.com/Quick-grid/simulator"><img src="./assets/project-cards/quick-grid-card.svg" width="370" alt="Quick-grid project card"/></a></p>
     </td>
     <td width="50%" valign="top">
       <p align="center"><a href="https://github.com/SkyKyuu"><img src="https://avatars.githubusercontent.com/u/321475785?v=4" width="24" height="24" alt="SkyKyuu organization logo"/> <strong>SkyKyuu</strong></a></p>
-      <p align="center"><a href="https://github.com/SkyKyuu/skykyuu-frontend"><img src="./assets/project-cards/skykyuu.svg" width="370" alt="SkyKyuu project card"/></a></p>
+      <p align="center"><a href="https://github.com/SkyKyuu/skykyuu-frontend"><img src="./assets/project-cards/skykyuu-card.svg" width="370" alt="SkyKyuu project card"/></a></p>
     </td>
   </tr>
 </table>
