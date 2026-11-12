@@ -2,7 +2,7 @@
 <title id="title">Grid Manager — Grid Manager</title><desc id="desc">A web app for organizing race grids, supported by a Java and Spring Boot backend. Technologies: Next.js · TypeScript · Java · Spring Boot</desc>
 <defs><filter id="shadow" x="-10%" y="-10%" width="125%" height="130%"><feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#c62828" flood-opacity=".18"/></filter></defs>
 <g filter="url(#shadow)"><rect x="12" y="12" width="836" height="306" rx="18" fill="#f3f3f4" stroke="#e2e2e5"/></g>
-<image href="https://github.com/Grid-Manager" x="36" y="35" width="38" height="38" preserveAspectRatio="xMidYMid slice"/>
+<image href="https://avatars.githubusercontent.com/u/315347681?v=4" x="36" y="35" width="38" height="38" preserveAspectRatio="xMidYMid slice"/>
 <text x="88" y="60" fill="#55565b" font-family="Arial,sans-serif" font-size="16" font-weight="600">Grid Manager</text>
 <text x="806" y="60" text-anchor="end" fill="#c62828" font-family="Arial,sans-serif" font-size="14" font-weight="700">02</text>
 <text x="36" y="120" fill="#b3262d" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">MOTORSPORT</text>
