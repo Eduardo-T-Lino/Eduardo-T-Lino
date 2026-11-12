@@ -1,12 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="300" viewBox="0 0 860 300" role="img" aria-labelledby="title desc">
-<title id="title">Grid Manager — project card</title><desc id="desc">Organize racing grids through a modern web app backed by a Java API.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#17191e"/><stop offset="1" stop-color="#090a0d"/></linearGradient><linearGradient id="accent"><stop stop-color="#f05a60"/><stop offset="1" stop-color="#8f1119"/></linearGradient><filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#000" flood-opacity=".3"/></filter></defs>
-<g filter="url(#shadow)"><rect x="10" y="10" width="840" height="280" rx="18" fill="url(#bg)" stroke="#383b42"/><rect x="10" y="10" width="8" height="280" rx="4" fill="url(#accent)"/></g>
-<circle cx="802" cy="52" r="24" fill="#55141a" opacity=".58"/><text x="802" y="59" text-anchor="middle" fill="#ff7b80" font-family="Arial,sans-serif" font-weight="700" font-size="16">02</text>
-<text x="36" y="54" fill="#ed666b" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">MOTORSPORT MANAGEMENT</text>
-<text x="36" y="102" fill="#fff" font-family="Arial,sans-serif" font-size="34" font-weight="700">Grid Manager</text>
-<path d="M36 122H824" stroke="#34363c"/>
-<foreignObject x="36" y="139" width="760" height="70"><div xmlns="http://www.w3.org/1999/xhtml" style="font:17px Arial,sans-serif;color:#c6c7cc;line-height:1.5">Organize racing grids through a modern web app backed by a Java API.</div></foreignObject>
-<g transform="translate(34,220)"><rect width="93" height="32" rx="6" fill="#17191d" stroke="#383b42"/><circle cx="13" cy="16" r="3" fill="#e33b43"/><text x="24" y="21" fill="#e8e8eb" font-family="Arial,sans-serif" font-size="14">Next.js</text></g><g transform="translate(194,220)"><rect width="120" height="32" rx="6" fill="#17191d" stroke="#383b42"/><circle cx="13" cy="16" r="3" fill="#e33b43"/><text x="24" y="21" fill="#e8e8eb" font-family="Arial,sans-serif" font-size="14">TypeScript</text></g><g transform="translate(384,220)"><rect width="93" height="32" rx="6" fill="#17191d" stroke="#383b42"/><circle cx="13" cy="16" r="3" fill="#e33b43"/><text x="24" y="21" fill="#e8e8eb" font-family="Arial,sans-serif" font-size="14">Java 21</text></g><g transform="translate(559,220)"><rect width="129" height="32" rx="6" fill="#17191d" stroke="#383b42"/><circle cx="13" cy="16" r="3" fill="#e33b43"/><text x="24" y="21" fill="#e8e8eb" font-family="Arial,sans-serif" font-size="14">Spring Boot</text></g>
-<text x="36" y="278" fill="#ee666b" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">EXPLORE PROJECT</text><path d="M210 274h25m-8 -8 8 8-8 8" stroke="#ee666b" stroke-width="2" fill="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="330" viewBox="0 0 860 330" role="img" aria-labelledby="title desc">
+<title id="title">Grid Manager — Grid Manager</title><desc id="desc">A web app for organizing race grids, supported by a Java and Spring Boot backend. Technologies: Next.js · TypeScript · Java · Spring Boot</desc>
+<defs><filter id="shadow" x="-10%" y="-10%" width="125%" height="130%"><feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#c62828" flood-opacity=".18"/></filter></defs>
+<g filter="url(#shadow)"><rect x="12" y="12" width="836" height="306" rx="18" fill="#f3f3f4" stroke="#e2e2e5"/></g>
+<image href="https://github.com/Grid-Manager" x="36" y="35" width="38" height="38" preserveAspectRatio="xMidYMid slice"/>
+<text x="88" y="60" fill="#55565b" font-family="Arial,sans-serif" font-size="16" font-weight="600">Grid Manager</text>
+<text x="806" y="60" text-anchor="end" fill="#c62828" font-family="Arial,sans-serif" font-size="14" font-weight="700">02</text>
+<text x="36" y="120" fill="#b3262d" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">MOTORSPORT</text>
+<text x="36" y="164" fill="#222326" font-family="Arial,sans-serif" font-size="30" font-weight="700">Grid Manager</text>
+<text x="36" y="205" fill="#55565b" font-family="Arial,sans-serif" font-size="16">A web app for organizing race grids, supported</text>
+<text x="36" y="230" fill="#55565b" font-family="Arial,sans-serif" font-size="16">by a Java and Spring Boot backend.</text>
+<path d="M36 254H824" stroke="#dedee1"/>
+<text x="36" y="284" fill="#494a50" font-family="Arial,sans-serif" font-size="14">Next.js · TypeScript · Java · Spring Boot</text>
+<text x="824" y="284" text-anchor="end" fill="#b3262d" font-family="Arial,sans-serif" font-size="13" font-weight="700">VIEW ↗</text>
 </svg>
