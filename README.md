@@ -7,46 +7,53 @@
     <a href="https://www.linkedin.com/in/eduardo-lino"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:eduardo.tamborelli.lino@gmail.com"><img src="https://img.shields.io/badge/Email-C62828?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Eduardo-T-Lino&color=C62828&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile views"/>
-
-  </p>
+  <p><img src="https://komarev.com/ghpvc/?username=Eduardo-T-Lino&color=C62828&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile views"/></p>
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I work across different parts of software development, from building interfaces and APIs to integrating databases and creating interactive browser experiences. I also explore 2D and 3D games, aiming to balance solid engineering with a good user experience.
+I work across the full stack, from building interfaces and APIs to integrating databases and creating interactive browser experiences. My recent work includes personal finance, motorsport management, racing simulations, and 3D games.
 
-## 🚀 Featured Projects
+## 🚀 Projects I Lead
 
-### [Beter Life](https://github.com/beter-life)
+Selected projects from organizations where I have repository administration and maintainer access.
 
-A personal finance platform for managing accounts, transactions, budgets, and savings goals.  
-[Frontend repository](https://github.com/beter-life/Front) · [Backend repository](https://github.com/beter-life/Back)  
-*React · TypeScript · Vite · Tailwind CSS · Node.js · Fastify · PostgreSQL · Supabase*
-
-### [Never Lift](https://github.com/Never-Lift)
-
-A browser racing game rendered with Canvas 2D, supported by a Java backend.  
-[Frontend repository](https://github.com/Never-Lift/never-lift-frontend) · [Backend repository](https://github.com/Never-Lift/never-lift-backend)  
-*React · TypeScript · Canvas 2D · Vite · Java · Spring Boot · PostgreSQL*
-
-### [SkyKyuu](https://github.com/SkyKyuu)
-
-A 3D volleyball game for the browser.  
-[Frontend repository](https://github.com/SkyKyuu/skykyuu-frontend) · [Backend repository](https://github.com/SkyKyuu/skykyuu-backend)  
-*React · TypeScript · Babylon.js · Java · Spring WebFlux*
-
-### [Quick-grid](https://github.com/Eduardo-T-Lino/Quick-grid)
-
-A browser game with online features.  
-*JavaScript · Vite · Node.js · Express · PostgreSQL · WebSockets*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/beter-life"><img src="https://avatars.githubusercontent.com/u/331849248?v=4" width="32" height="32" alt="Beter Life organization logo"/></a> &nbsp; Beter Life</h3>
+      <p>A personal finance platform for managing accounts, transactions, budgets, and savings goals.</p>
+      <p><a href="https://github.com/beter-life/Front">Frontend</a> · <a href="https://github.com/beter-life/Back">Backend</a></p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code><br/><code>Fastify</code> <code>Drizzle ORM</code> <code>PostgreSQL</code> <code>Supabase</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Grid-Manager"><img src="https://avatars.githubusercontent.com/u/315347681?v=4" width="32" height="32" alt="Grid Manager organization logo"/></a> &nbsp; Grid Manager</h3>
+      <p>A web application for managing motorsport grids, with a Next.js frontend and Spring Boot API.</p>
+      <p><a href="https://github.com/Grid-Manager/grid-manager-frontend">Frontend</a> · <a href="https://github.com/Grid-Manager/grid-manager-backend">Backend</a></p>
+      <p><code>Next.js</code> <code>React</code> <code>TypeScript</code><br/><code>Java 21</code> <code>Spring Boot</code> <code>JPA</code> <code>PostgreSQL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Quick-grid"><img src="https://avatars.githubusercontent.com/u/354451634?v=4" width="32" height="32" alt="Quick-grid organization logo"/></a> &nbsp; Quick-grid</h3>
+      <p>A browser-based racing simulator with online features and a Node.js backend.</p>
+      <p><a href="https://github.com/Quick-grid/simulator">Simulator repository</a></p>
+      <p><code>JavaScript</code> <code>Vite</code> <code>Express</code><br/><code>PostgreSQL</code> <code>WebSockets</code> <code>Playwright</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SkyKyuu"><img src="https://avatars.githubusercontent.com/u/321475785?v=4" width="32" height="32" alt="SkyKyuu organization logo"/></a> &nbsp; SkyKyuu</h3>
+      <p>A 3D volleyball game for the browser, with a server-authoritative backend.</p>
+      <p><a href="https://github.com/SkyKyuu/skykyuu-frontend">Frontend</a> · <a href="https://github.com/SkyKyuu/skykyuu-backend">Backend</a></p>
+      <p><code>React</code> <code>TypeScript</code> <code>Babylon.js</code><br/><code>Java 25</code> <code>Spring WebFlux</code> <code>Reactor</code></p>
+    </td>
+  </tr>
+</table>
 
 ## 🧰 Technologies
 
-This section brings together the technologies from my previous profile and those used across my projects, grouped by area.
+Technologies I have used across projects, grouped by area.
 
 **Languages & Web**
 
@@ -58,7 +65,7 @@ This section brings together the technologies from my previous profile and those
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </div>
 
-**Frontend & Frameworks**
+**Frontend, Frameworks & Games**
 
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -76,16 +83,20 @@ This section brings together the technologies from my previous profile and those
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Fastify-111111?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring WebFlux"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM"/>
   <img src="https://img.shields.io/badge/WebSockets-5A0B12?style=for-the-badge" alt="WebSockets"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
-**Tools & Collaboration**
+**Testing & Collaboration**
 
 <div>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
