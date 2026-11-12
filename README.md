@@ -31,25 +31,17 @@ A selection of projects I lead and maintain, across personal finance, motorsport
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/beter-life"><img src="https://avatars.githubusercontent.com/u/331849248?v=4" width="26" height="26" alt="Beter Life organization logo" /></a>
-      <strong>Beter Life</strong>
       <p><a href="https://github.com/beter-life/Front"><img src="assets/project-cards/beter-life-card.png" width="100%" alt="Beter Life featured project — React, TypeScript, Fastify, PostgreSQL" /></a></p>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Grid-Manager"><img src="https://avatars.githubusercontent.com/u/315347681?v=4" width="26" height="26" alt="Grid Manager organization logo" /></a>
-      <strong>Grid Manager</strong>
       <p><a href="https://github.com/Grid-Manager/grid-manager-frontend"><img src="assets/project-cards/grid-manager-card.png" width="100%" alt="Grid Manager featured project — Next.js, TypeScript, Spring Boot, Java" /></a></p>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Quick-grid"><img src="https://avatars.githubusercontent.com/u/354451634?v=4" width="26" height="26" alt="Quick-grid organization logo" /></a>
-      <strong>Quick-grid</strong>
       <p><a href="https://github.com/Quick-grid/simulator"><img src="assets/project-cards/quick-grid-card.png" width="100%" alt="Quick-grid featured project — JavaScript, Vite, Express, WebSockets" /></a></p>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/SkyKyuu"><img src="https://avatars.githubusercontent.com/u/321475785?v=4" width="26" height="26" alt="SkyKyuu organization logo" /></a>
-      <strong>SkyKyuu</strong>
       <p><a href="https://github.com/SkyKyuu/skykyuu-frontend"><img src="assets/project-cards/skykyuu-card.png" width="100%" alt="SkyKyuu featured project — React, Babylon.js, Java, Spring WebFlux" /></a></p>
     </td>
   </tr>
