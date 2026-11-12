@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="300" viewBox="0 0 860 300" role="img" aria-labelledby="title desc">
+<title id="title">SkyKyuu</title><desc id="desc">A 3D volleyball game for the browser, with a server-authoritative backend. Stack: React · Babylon.js · Java · Spring WebFlux</desc>
+<defs><filter id="shadow" x="-10%" y="-10%" width="125%" height="130%"><feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#c62828" flood-opacity=".16"/></filter></defs>
+<g filter="url(#shadow)"><rect x="12" y="12" width="836" height="276" rx="16" fill="#f3f3f4" stroke="#e2e2e5"/></g>
+<text x="36" y="58" fill="#b3262d" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="1.4">3D GAME</text>
+<text x="36" y="104" fill="#222326" font-family="Arial,sans-serif" font-size="48" font-weight="700">SkyKyuu</text>
+<text x="36" y="151" fill="#55565b" font-family="Arial,sans-serif" font-size="27">A 3D volleyball game for the browser, with</text>
+<text x="36" y="181" fill="#55565b" font-family="Arial,sans-serif" font-size="27">a server-authoritative backend.</text>
+<path d="M36 207H824" stroke="#dedee1"/>
+<text x="36" y="245" fill="#494a50" font-family="Arial,sans-serif" font-size="24">React · Babylon.js · Java · Spring WebFlux</text>
+<text x="824" y="245" text-anchor="end" fill="#b3262d" font-family="Arial,sans-serif" font-size="22" font-weight="700">VIEW ↗</text>
+</svg>
