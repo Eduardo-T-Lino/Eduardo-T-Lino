@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="350" viewBox="0 0 860 350" role="img" aria-labelledby="title desc">
+<title id="title">Quick-grid</title><desc id="desc">A browser-based racing simulator with real-time online features. Stack: JavaScript · Vite · Express · WebSockets</desc>
+<defs><filter id="shadow" x="-10%" y="-10%" width="125%" height="130%"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#c62828" flood-opacity=".48"/></filter></defs>
+<g filter="url(#shadow)"><rect x="12" y="12" width="820" height="316" rx="16" fill="#303238" stroke="#41434a"/></g>
+<text x="36" y="62" fill="#ed6a70" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="1.4">BROWSER GAME</text>
+<text x="36" y="132" fill="#f3f3f5" font-family="Arial,sans-serif" font-size="48" font-weight="700">Quick-grid</text>
+<text x="36" y="190" fill="#c6c8ce" font-family="Arial,sans-serif" font-size="27">A browser-based racing simulator with</text>
+<text x="36" y="230" fill="#c6c8ce" font-family="Arial,sans-serif" font-size="27">real-time online features.</text>
+<path d="M36 207H824" stroke="#4b4d54"/>
+<text x="36" y="302" fill="#d0d1d5" font-family="Arial,sans-serif" font-size="24">JavaScript · Vite · Express · WebSockets</text>
+<text x="824" y="245" text-anchor="end" fill="#ed6a70" font-family="Arial,sans-serif" font-size="22" font-weight="700">VIEW ↗</text>
+</svg>

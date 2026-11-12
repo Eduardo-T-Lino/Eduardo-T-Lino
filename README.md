@@ -1,101 +1,125 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:5B0B12,100:C62828&height=145&section=header" alt="Black and red banner"/>
-  <h1>👋 Hi, I'm Eduardo!</h1>
-  <p><strong>Software Developer · Web Applications & Games</strong></p>
-  <p>I build web applications, APIs, and browser games. I enjoy connecting interfaces, business logic, and data to turn ideas into clear, useful products.</p>
-  <p>
-    <a href="https://www.linkedin.com/in/eduardo-lino"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:eduardo.tamborelli.lino@gmail.com"><img src="https://img.shields.io/badge/Email-C62828?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Eduardo-T-Lino&color=C62828&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile views"/>
 
-  </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:090A0D,50:5C1020,100:D12B43&amp;height=165&amp;section=header" alt="Dark crimson banner" />
+
+# 👋 Hi, I'm Eduardo!
+
+**Software Developer · Full Stack · Interactive Experiences**
+
+I create web applications, robust APIs, and interactive browser games — from product architecture to the details that make experiences feel polished.
+
+<a href="https://www.linkedin.com/in/eduardo-lino"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:eduardo.tamborelli.lino@gmail.com"><img src="https://img.shields.io/badge/Email-C62828?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Eduardo-T-Lino?tab=repositories"><img src="https://img.shields.io/badge/Repositories-11131A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub repositories" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=Eduardo-T-Lino&amp;color=C62828&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Profile views" />
+
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I work across different parts of software development, from building interfaces and APIs to integrating databases and creating interactive browser experiences. I also explore 2D and 3D games, aiming to balance solid engineering with a good user experience.
+I build modern interfaces, backend services, and real-time applications. My projects bring together **frontend engineering, API design, data modeling, and game development** — with an emphasis on clear interfaces and maintainable code.
 
 ## 🚀 Featured Projects
 
-### [Beter Life](https://github.com/beter-life)
+A selection of projects I lead and maintain, across personal finance, motorsport, racing simulation, and 3D games.
 
-A personal finance platform for managing accounts, transactions, budgets, and savings goals.  
-[Frontend repository](https://github.com/beter-life/Front) · [Backend repository](https://github.com/beter-life/Back)  
-*React · TypeScript · Vite · Tailwind CSS · Node.js · Fastify · PostgreSQL · Supabase*
+<div align="center">
 
-### [Never Lift](https://github.com/Never-Lift)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <p><a href="https://github.com/beter-life/Front"><img src="assets/project-cards/beter-life-card.png" width="100%" alt="Beter Life featured project — React, TypeScript, Fastify, PostgreSQL" /></a></p>
+    </td>
+    <td align="center" width="50%">
+      <p><a href="https://github.com/Grid-Manager/grid-manager-frontend"><img src="assets/project-cards/grid-manager-card.png" width="100%" alt="Grid Manager featured project — Next.js, TypeScript, Spring Boot, Java" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <p><a href="https://github.com/Quick-grid/simulator"><img src="assets/project-cards/quick-grid-card.png" width="100%" alt="Quick-grid featured project — JavaScript, Vite, Express, WebSockets" /></a></p>
+    </td>
+    <td align="center" width="50%">
+      <p><a href="https://github.com/SkyKyuu/skykyuu-frontend"><img src="assets/project-cards/skykyuu-card.png" width="100%" alt="SkyKyuu featured project — React, Babylon.js, Java, Spring WebFlux" /></a></p>
+    </td>
+  </tr>
+</table>
 
-A browser racing game rendered with Canvas 2D, supported by a Java backend.  
-[Frontend repository](https://github.com/Never-Lift/never-lift-frontend) · [Backend repository](https://github.com/Never-Lift/never-lift-backend)  
-*React · TypeScript · Canvas 2D · Vite · Java · Spring Boot · PostgreSQL*
+<sub>Click a card to open its repository. Organization logos link to their GitHub pages.</sub>
 
-### [SkyKyuu](https://github.com/SkyKyuu)
-
-A 3D volleyball game for the browser.  
-[Frontend repository](https://github.com/SkyKyuu/skykyuu-frontend) · [Backend repository](https://github.com/SkyKyuu/skykyuu-backend)  
-*React · TypeScript · Babylon.js · Java · Spring WebFlux*
-
-### [Quick-grid](https://github.com/Eduardo-T-Lino/Quick-grid)
-
-A browser game with online features.  
-*JavaScript · Vite · Node.js · Express · PostgreSQL · WebSockets*
+</div>
 
 ## 🧰 Technologies
 
-This section brings together the technologies from my previous profile and those used across my projects, grouped by area.
+<details open>
+<summary><b>Languages & Core Web</b></summary>
+<br />
 
-**Languages & Web**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
+</details>
 
-**Frontend & Frameworks**
+<details open>
+<summary><b>Frontend & Interactive Experiences</b></summary>
+<br />
 
-<div>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Babylon.js-BB464B?style=for-the-badge&logo=babylondotjs&logoColor=white" alt="Babylon.js"/>
-  <img src="https://img.shields.io/badge/Canvas_2D-222222?style=for-the-badge&logo=html5&logoColor=white" alt="Canvas 2D"/>
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Babylon.js](https://img.shields.io/badge/Babylon.js-9D5DFF?style=for-the-badge&logo=babylondotjs&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 
-**Backend, Databases & Infrastructure**
+</details>
 
-<div>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Fastify-111111?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/WebSockets-5A0B12?style=for-the-badge" alt="WebSockets"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</div>
+<details open>
+<summary><b>Backend, Databases & APIs</b></summary>
+<br />
 
-**Tools & Collaboration**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-101010?style=for-the-badge&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![WebSockets](https://img.shields.io/badge/WebSockets-21252B?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</div>
+</details>
+
+<details open>
+<summary><b>Testing & Developer Tools</b></summary>
+<br />
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</details>
 
 ## 📈 Contributions
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Eduardo-T-Lino&theme=dark&hide_border=true&background=0B0B0D&ring=C62828&fire=E34F4F&currStreakLabel=E34F4F&sideLabels=E6E6E6&dates=9B9B9B" alt="GitHub contribution streak"/>
+  <img width="75%" src="https://streak-stats.demolab.com?user=Eduardo-T-Lino&amp;theme=dark&amp;hide_border=true&amp;background=11131A&amp;ring=E13C55&amp;fire=FF6B81&amp;currStreakLabel=FF6B81&amp;sideLabels=D8DCE5&amp;dates=97A0AE" alt="GitHub contribution streak" />
 </div>
 
+---
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:5B0B12,100:C62828&height=95&section=footer" alt="Black and red footer banner"/>
+
+**Let's build something worth using.**
+
+<a href="https://github.com/Eduardo-T-Lino"><img src="https://img.shields.io/badge/GitHub-E13C55?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub" /></a>
+<a href="https://www.linkedin.com/in/eduardo-lino"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-11131A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:090A0D,50:5C1020,100:D12B43&amp;height=100&amp;section=footer" alt="Dark crimson footer" />
+
 </div>
