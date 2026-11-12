@@ -24,7 +24,7 @@ Selected projects from organizations where I have repository administration and 
   <tr>
     <td width="50%" valign="top">
       <p align="center"><a href="https://github.com/beter-life"><img src="https://avatars.githubusercontent.com/u/331849248?v=4" width="24" height="24" alt="Beter Life organization logo"/></a> <strong>Beter Life</strong></p>
-      <p align="center"><a href="https://github.com/beter-life/Front"><img src="./assets/project-cards/beter-life-card.svg?v=dark-spacing-2026-11" width="370" alt="Beter Life project card"/></a></p>
+      <p align="center"><a href="https://github.com/beter-life/Front"><img src="./assets/project-cards/beter-life-card.svg?v=directional-shadow-2026-11-12" width="370" alt="Beter Life project card"/></a></p>
     </td>
     <td width="50%" valign="top">
       <p align="center"><a href="https://github.com/Grid-Manager"><img src="https://avatars.githubusercontent.com/u/315347681?v=4" width="24" height="24" alt="Grid Manager organization logo"/></a> <strong>Grid Manager</strong></p>
