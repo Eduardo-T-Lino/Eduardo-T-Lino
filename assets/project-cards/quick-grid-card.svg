@@ -7,6 +7,6 @@
 <text x="36" y="176" fill="#c6c8ce" font-family="Arial,sans-serif" font-size="27">A browser-based racing simulator with</text>
 <text x="36" y="207" fill="#c6c8ce" font-family="Arial,sans-serif" font-size="27">real-time online features.</text>
 <path d="M36 207H824" stroke="#4b4d54"/>
-<text x="36" y="278" fill="#d0d1d5" font-family="Arial,sans-serif" font-size="24">JavaScript · Vite · Express · WebSockets</text>
+<text x="36" y="258" fill="#d0d1d5" font-family="Arial,sans-serif" font-size="24">JavaScript · Vite · Express · WebSockets</text>
 <text x="824" y="245" text-anchor="end" fill="#ed6a70" font-family="Arial,sans-serif" font-size="22" font-weight="700">VIEW ↗</text>
 </svg>
