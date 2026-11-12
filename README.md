@@ -1,6 +1,47 @@
-<a href="https://github.com/beter-life/Front"><img src="./assets/project-cards/beter-life.svg" width="48%" alt="Beter Life project card"/></a>&nbsp;&nbsp;<a href="https://github.com/Grid-Manager/grid-manager-frontend"><img src="./assets/project-cards/grid-manager.svg" width="48%" alt="Grid Manager project card"/></a>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:5B0B12,100:C62828&height=145&section=header" alt="Black and red banner"/>
+  <h1>👋 Hi, I'm Eduardo!</h1>
+  <p><strong>Software Developer · Web Applications & Games</strong></p>
+  <p>I build web applications, APIs, and browser games. I enjoy connecting interfaces, business logic, and data to turn ideas into clear, useful products.</p>
+  <p>
+    <a href="https://www.linkedin.com/in/eduardo-lino"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:eduardo.tamborelli.lino@gmail.com"><img src="https://img.shields.io/badge/Email-C62828?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
+  <p><img src="https://komarev.com/ghpvc/?username=Eduardo-T-Lino&color=C62828&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile views"/></p>
+</div>
 
-<a href="https://github.com/Quick-grid/simulator"><img src="./assets/project-cards/quick-grid.svg" width="48%" alt="Quick-grid project card"/></a>&nbsp;&nbsp;<a href="https://github.com/SkyKyuu/skykyuu-frontend"><img src="./assets/project-cards/skykyuu.svg" width="48%" alt="SkyKyuu project card"/></a>
+---
+
+## 🧑‍💻 About Me
+
+I work across the full stack, from building interfaces and APIs to integrating databases and creating interactive browser experiences. My recent work includes personal finance, motorsport management, racing simulations, and 3D games.
+
+## 🚀 Projects I Lead
+
+Selected projects from organizations where I have repository administration and maintainer access.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center"><a href="https://github.com/beter-life"><img src="https://avatars.githubusercontent.com/u/331849248?v=4" width="24" height="24" alt="Beter Life organization logo"/> <strong>Beter Life</strong></a></p>
+      <p align="center"><a href="https://github.com/beter-life/Front"><img src="./assets/project-cards/beter-life.svg" width="370" alt="Beter Life project card"/></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center"><a href="https://github.com/Grid-Manager"><img src="https://avatars.githubusercontent.com/u/315347681?v=4" width="24" height="24" alt="Grid Manager organization logo"/> <strong>Grid Manager</strong></a></p>
+      <p align="center"><a href="https://github.com/Grid-Manager/grid-manager-frontend"><img src="./assets/project-cards/grid-manager.svg" width="370" alt="Grid Manager project card"/></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center"><a href="https://github.com/Quick-grid"><img src="https://avatars.githubusercontent.com/u/354451634?v=4" width="24" height="24" alt="Quick-grid organization logo"/> <strong>Quick-grid</strong></a></p>
+      <p align="center"><a href="https://github.com/Quick-grid/simulator"><img src="./assets/project-cards/quick-grid.svg" width="370" alt="Quick-grid project card"/></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center"><a href="https://github.com/SkyKyuu"><img src="https://avatars.githubusercontent.com/u/321475785?v=4" width="24" height="24" alt="SkyKyuu organization logo"/> <strong>SkyKyuu</strong></a></p>
+      <p align="center"><a href="https://github.com/SkyKyuu/skykyuu-frontend"><img src="./assets/project-cards/skykyuu.svg" width="370" alt="SkyKyuu project card"/></a></p>
+    </td>
+  </tr>
+</table>
 
 ## 🧰 Technologies
 
