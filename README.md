@@ -20,36 +20,25 @@ I work across the full stack, from building interfaces and APIs to integrating d
 
 Selected projects from organizations where I have repository administration and maintainer access.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/beter-life"><img src="https://avatars.githubusercontent.com/u/331849248?v=4" width="32" height="32" alt="Beter Life organization logo"/></a> &nbsp; Beter Life</h3>
-      <p>A personal finance platform for managing accounts, transactions, budgets, and savings goals.</p>
-      <p><a href="https://github.com/beter-life/Front">Frontend</a> · <a href="https://github.com/beter-life/Back">Backend</a></p>
-      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code><br/><code>Fastify</code> <code>Drizzle ORM</code> <code>PostgreSQL</code> <code>Supabase</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Grid-Manager"><img src="https://avatars.githubusercontent.com/u/315347681?v=4" width="32" height="32" alt="Grid Manager organization logo"/></a> &nbsp; Grid Manager</h3>
-      <p>A web application for managing motorsport grids, with a Next.js frontend and Spring Boot API.</p>
-      <p><a href="https://github.com/Grid-Manager/grid-manager-frontend">Frontend</a> · <a href="https://github.com/Grid-Manager/grid-manager-backend">Backend</a></p>
-      <p><code>Next.js</code> <code>React</code> <code>TypeScript</code><br/><code>Java 21</code> <code>Spring Boot</code> <code>JPA</code> <code>PostgreSQL</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Quick-grid"><img src="https://avatars.githubusercontent.com/u/354451634?v=4" width="32" height="32" alt="Quick-grid organization logo"/></a> &nbsp; Quick-grid</h3>
-      <p>A browser-based racing simulator with online features and a Node.js backend.</p>
-      <p><a href="https://github.com/Quick-grid/simulator">Simulator repository</a></p>
-      <p><code>JavaScript</code> <code>Vite</code> <code>Express</code><br/><code>PostgreSQL</code> <code>WebSockets</code> <code>Playwright</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SkyKyuu"><img src="https://avatars.githubusercontent.com/u/321475785?v=4" width="32" height="32" alt="SkyKyuu organization logo"/></a> &nbsp; SkyKyuu</h3>
-      <p>A 3D volleyball game for the browser, with a server-authoritative backend.</p>
-      <p><a href="https://github.com/SkyKyuu/skykyuu-frontend">Frontend</a> · <a href="https://github.com/SkyKyuu/skykyuu-backend">Backend</a></p>
-      <p><code>React</code> <code>TypeScript</code> <code>Babylon.js</code><br/><code>Java 25</code> <code>Spring WebFlux</code> <code>Reactor</code></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p><a href="https://github.com/beter-life"><img src="https://avatars.githubusercontent.com/u/331849248?v=4" width="28" height="28" alt="Beter Life organization logo"/></a> &nbsp; <strong>Beter Life</strong> · <a href="https://github.com/beter-life">Organization</a></p>
+  <a href="https://github.com/beter-life/Front"><img src="./assets/project-cards/beter-life.svg" width="100%" alt="Beter Life styled project card"/></a>
+</div>
+
+<div align="center">
+  <p><a href="https://github.com/Grid-Manager"><img src="https://avatars.githubusercontent.com/u/315347681?v=4" width="28" height="28" alt="Grid Manager organization logo"/></a> &nbsp; <strong>Grid Manager</strong> · <a href="https://github.com/Grid-Manager">Organization</a></p>
+  <a href="https://github.com/Grid-Manager/grid-manager-frontend"><img src="./assets/project-cards/grid-manager.svg" width="100%" alt="Grid Manager styled project card"/></a>
+</div>
+
+<div align="center">
+  <p><a href="https://github.com/Quick-grid"><img src="https://avatars.githubusercontent.com/u/354451634?v=4" width="28" height="28" alt="Quick-grid organization logo"/></a> &nbsp; <strong>Quick-grid</strong> · <a href="https://github.com/Quick-grid">Organization</a></p>
+  <a href="https://github.com/Quick-grid/simulator"><img src="./assets/project-cards/quick-grid.svg" width="100%" alt="Quick-grid styled project card"/></a>
+</div>
+
+<div align="center">
+  <p><a href="https://github.com/SkyKyuu"><img src="https://avatars.githubusercontent.com/u/321475785?v=4" width="28" height="28" alt="SkyKyuu organization logo"/></a> &nbsp; <strong>SkyKyuu</strong> · <a href="https://github.com/SkyKyuu">Organization</a></p>
+  <a href="https://github.com/SkyKyuu/skykyuu-frontend"><img src="./assets/project-cards/skykyuu.svg" width="100%" alt="SkyKyuu styled project card"/></a>
+</div>
 
 ## 🧰 Technologies
 
